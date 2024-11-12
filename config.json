@@ -1,29 +1,5 @@
 {
     "urls": [
-      "https://console.oneview.eu-zurich-1.oci.oracleiaas.com/webApp/Customers",
-      "https://console.oneview.eu-zurich-1.oci.oracleiaas.com/webApp/workrequest",
-      "https://console.oneview.eu-zurich-1.oci.oracleiaas.com/webApp/ExadataCsFleet",
-      "https://console.oneview.eu-zurich-1.oci.oracleiaas.com/webApp/ExaccCapacity",
-      "https://console.oneview.eu-zurich-1.oci.oracleiaas.com/webApp/PatchMonitor",
-      "https://console.oneview.eu-zurich-1.oci.oracleiaas.com/webApp/Dashboard",
-      "https://console.oneview.eu-zurich-1.oci.oracleiaas.com/webApp/MarsIncidents/EXADB-D",
-      "https://console.oneview.eu-zurich-1.oci.oracleiaas.com/webApp/MarsIncidents/EXADB-CC",
-      "https://console.oneview.eu-zurich-1.oci.oracleiaas.com/webApp/EngineeredSystems",
-      "https://console.oneview.eu-zurich-1.oci.oracleiaas.com/webApp/IncidentsV2",
-      "https://console.oneview.eu-zurich-1.oci.oracleiaas.com/webApp/ExaccCapacity",
-      "https://console.oneview.eu-zurich-1.oci.oracleiaas.com/webApp/resourceExplorer/ocid1.cloudexadatainfrastructure.oc1.eu-frankfurt-1.antheljrnsbq2ciadputoqlagmky2d3xa26ff5t2t2cekxfr6l7xf6qzxfpa?region=eu-frankfurt-1&ad=eu-frankfurt-1-ad-1",
-      "https://console.oneview.eu-zurich-1.oci.oracleiaas.com/webApp/resourceExplorer/ocid1.cloudvmcluster.oc1.eu-frankfurt-1.antheljrnsbq2ciaw3k4alswe2emyrtvjzv66fl3yqed6p6rv2czv4ft2rsa?region=eu-frankfurt-1&ad=eu-frankfurt-1-ad-1",
-      "https://console.oneview.eu-zurich-1.oci.oracleiaas.com/webApp/ExadataCsFleet",
-      "https://console.oneview.eu-zurich-1.oci.oracleiaas.com/webApp/ExaccCapacity",
-      "https://console.oneview.eu-zurich-1.oci.oracleiaas.com/webApp/resourceExplorer/ocid1.dbsystem.oc1.phx.abyhqljrzpvyj3meozi3nffpo4jaauxwxfknn2nibkxgzvtei2yigkqv32da?region=phx&ad=phx-ad-1",
-      "https://console.oneview.eu-zurich-1.oci.oracleiaas.com/webApp/DbCloudFleet",
-      "https://console.oneview.eu-zurich-1.oci.oracleiaas.com/webApp/PatchList",
-      "https://console.oneview.eu-zurich-1.oci.oracleiaas.com/webApp/PatchList",
-      "https://console.oneview.eu-zurich-1.oci.oracleiaas.com/webApp/SecurityPatches",
-      "https://console.oneview.eu-zurich-1.oci.oracleiaas.com/webApp/usageStats",
-      "https://console.oneview.eu-zurich-1.oci.oracleiaas.com/webApp/InfrastructureIngestions",
-      "https://console.oneview.eu-zurich-1.oci.oracleiaas.com/webApp/InfrastructureIngestions",
-      "https://console.oneview.eu-zurich-1.oci.oracleiaas.com/webApp/ExaComputeWorkRequests",
-      "https://console.oneview.eu-zurich-1.oci.oracleiaas.com/webApp/IncidentsV2"
+      "https://example.com/"
     ]
 } 

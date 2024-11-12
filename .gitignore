@@ -21,7 +21,7 @@ Thumbs.db
 .env.local
 
 # Optional: Ignore config.json if it contains sensitive information (e.g., URLs or credentials)
-# config.json
+config.json
 
 # IDE or editor specific files
 .vscode/
